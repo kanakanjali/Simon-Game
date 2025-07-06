@@ -10,6 +10,7 @@ The game shows a sequence using four colored buttons (red, green, blue, yellow).
 
 ## 🚀 What I Learned
 Working on this project helped me understand and apply:
+
 • DOM manipulation using JavaScript  
 • Event handling for button clicks and keypresses  
 • Use of arrays to track user and game patterns  
