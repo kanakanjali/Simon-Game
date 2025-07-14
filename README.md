@@ -53,6 +53,7 @@ Working on this project helped me understand and apply:
 │ ├── yellow.mp3
 ---
 │ └── wrong.mp3
+---
 
 ## ✨ Final Notes
 • ⭐ Feel free to star the repo  
