@@ -34,7 +34,7 @@ Working on this project helped me understand and apply:
    
 ## 📁 Project Structure
 
-📁 SimonGame
+📁 Simon-Game
 ---
 ├── index.html
 ---
