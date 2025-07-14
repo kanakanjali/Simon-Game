@@ -33,6 +33,7 @@ Working on this project helped me understand and apply:
 5. If you make a mistake, the game ends and prompts you to try again.
    
 ## 📁 Project Structure
+
 📁 SimonGame
 ├── index.html
 ├── style.css
