@@ -42,6 +42,8 @@ Working on this project helped me understand and apply:
 ---
 ├── index.js
 ---
+├── README.md
+---
 ├── sounds/
 ---
 │ ├── red.mp3
