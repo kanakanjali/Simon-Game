@@ -35,14 +35,23 @@ Working on this project helped me understand and apply:
 ## 📁 Project Structure
 
 📁 SimonGame
+---
 ├── index.html
+---
 ├── style.css
+---
 ├── index.js
+---
 ├── sounds/
+---
 │ ├── red.mp3
+---
 │ ├── blue.mp3
+---
 │ ├── green.mp3
+---
 │ ├── yellow.mp3
+---
 │ └── wrong.mp3
 
 ## ✨ Final Notes
