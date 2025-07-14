@@ -33,29 +33,19 @@ Working on this project helped me understand and apply:
 5. If you make a mistake, the game ends and prompts you to try again.
    
 ## 📁 Project Structure
-
+```bash
 📁 Simon-Game
----
 ├── index.html
----
 ├── style.css
----
 ├── index.js
----
 ├── README.md
----
 ├── sounds/
----
 │ ├── red.mp3
----
 │ ├── blue.mp3
----
 │ ├── green.mp3
----
 │ ├── yellow.mp3
----
 │ └── wrong.mp3
----
+```
 
 ## ✨ Final Notes
 • ⭐ Feel free to star the repo  
